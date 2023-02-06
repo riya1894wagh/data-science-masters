@@ -1,0 +1,80 @@
+Assignment
+
+1. Who developed the python programming language?
+Ans: Guido Van Rossum developed python programming language.
+
+2. Which type of programming does python support?
+Ans: python supports object oriented programming and structured programming.
+
+3. Is python case sensitive when dealing with identifiers?
+Ans: Yes python is case sensitive when dealing with identifiers.
+
+4. What is the correct extension of the python file?
+Ans:  .py is the correct extension of the python file.
+
+5. Is python code compiled or interpreted?
+Ans: Yes python code compiled or interpreted.
+
+6. Name a few blocks of code used to define in the python language?
+Ans:  n = int(input(“Enter a number: ”))
+          for i in n:
+             For j in (i+1):
+                    print(“*”)
+          print(“\r”)
+
+7.State a character used to give single line comments in python?
+Ans: In python, the # character is used to start a comment.
+
+
+
+8. Mention function which can help us to find the version of python that we are currently working on?
+Ans: The function sys.version can help us to find the version of python that we are currently working on.
+
+9. Python support the creation of anonymous function at runtime, using a construct called _______
+Ans:  Python supports the creation of anonymous functions at runtime, using a construct called “Lambda”.
+
+10. What does pip stand for python?
+Ans: pip stands for “Preferred installer program” .
+
+11. Mention a few built-in functions in python?
+Ans:  
+print() function
+type() function
+input() function
+abs() function
+pow() function
+dir() function
+sorted() function
+max() function
+round() function 
+divmod() function 
+id() function
+ord() function 
+len() function
+sum() function
+help() function
+
+12. What is the maximum possible length of an identifier in python?
+Ans: An identifier can have a maximum length of 79 characters in python.
+
+13. What are the benefits of using python?
+Ans: 
+Simple to use and understand
+Free and open source
+Productivity has increased
+Interpreted language
+Extensive library
+Dynamically typed
+Portability
+Supportive community
+
+14. How is memory managed in python?
+Ans: memory in python is managed by python private heap space. All python objects and data structures are located in a private heap. The private heap is taken care of by the python interpreter itself, and a programmer doesn’t have access to this private heap.
+
+15. How to install python on windows and set path variables? 
+Ans:  Install python from the link https://www.python.org/downloads/ . After this, install it on your PC. Look for the location where PYTHON has been installed on your PC using the following command on your command prompt: cmd python.
+Then as PYTHON_NAME and paste the copied path.
+Then look for the path variable, select its value and select edit add a semicolon towards the end of the value if it’s not present and type %PYTHON_HOME%.
+
+ 
+
